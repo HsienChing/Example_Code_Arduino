@@ -93,7 +93,11 @@ Some example codes for Arduino.
 
 # Brief description
 
-1. Blink_LED_via_a_Specific_Pin 
+| #    | Sketch name                        | Date       |
+| ---- | --------------------------------   | ---------- |
+| 1    | Blink_LED_via_a_Specific_Pin       | 2021-06-25 |
+
+
 
 
 <!-- 
@@ -123,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 # Usage
-The codes are in the Code directory.
+The codes are in the "[code](code)" directory.
 
 
 
@@ -142,7 +146,7 @@ Author: Dr. Hsien-Ching Chung
 
 ORCID: https://orcid.org/0000-0001-9364-8858
 
-Project Link: [https://github.com/HsienChing/RS-232_serial_call_response_and_HMI_display_for_Arduino](https://github.com/HsienChing/RS-232_serial_call_response_and_HMI_display_for_Arduino)
+Project Link: [https://github.com/HsienChing/Example_Code_Arduino](https://github.com/HsienChing/Example_Code_Arduino)
 
 
 
