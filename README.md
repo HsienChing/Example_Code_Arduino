@@ -85,7 +85,7 @@ Ref: https://github.com/othneildrew/Best-README-Template/edit/master/README.md
 <!-- ABOUT THE PROJECT -->
 # About the project
 
-Some example codes for Arduino.
+Some small example codes for Arduino.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
