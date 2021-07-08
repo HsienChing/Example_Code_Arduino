@@ -11,9 +11,9 @@
   Suggested system setup:
     1. A "TTL to USB device" is suggested to use for reading and sending messages through the "AssignedSerial."
 
-  Date: 7 July 2021
+  Date:   7 July 2021
   Author: Dr. Hsien-Ching Chung
-  ORCID: https://orcid.org/0000-0001-9364-8858
+  ORCID:  https://orcid.org/0000-0001-9364-8858
 */
 
 #define AssignedSerial Serial1    // Assign Serial1 to the AssignedSerial
