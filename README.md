@@ -93,11 +93,12 @@ Some small example codes for Arduino.
 
 # Brief description
 
-| #    | Sketch name                                                                                             | Date       |
-| ---- | ------------------------------------------------------------------------------------------------------- | ---------- |
-|    1 | [Blink_LED_via_a_Specific_Pin.ino](code/Blink_LED_via_a_Specific_Pin.ino)                               | 2021-06-25 |
-|    2 | [CRC16_Calculation_for_Modbus_RTU.ino](code/CRC16_Calculation_for_Modbus_RTU.ino)                       | 2021-07-05 |
-|    3 | [Serial_Passthrough_by_the_Assigned_Serial.ino](code/Serial_Passthrough_by_the_Assigned_Serial.ino)     | 2021-07-07 |
+| #    | Sketch name                                                                                                        | Date       |
+| ---- | ------------------------------------------------------------------------------------------------------------------ | ---------- |
+|    1 | [Blink_LED_via_a_Specific_Pin.ino](code/Blink_LED_via_a_Specific_Pin.ino)                                          | 2021-06-25 |
+|    2 | [CRC16_Calculation_for_Modbus_RTU.ino](code/CRC16_Calculation_for_Modbus_RTU.ino)                                  | 2021-07-05 |
+|    3 | [CRC16_Calculation_for_Modbus_RTU_Function_Version.ino](CRC16_Calculation_for_Modbus_RTU_Function_Version.ino)     | 2021-07-06 |
+|    4 | [Serial_Passthrough_by_the_Assigned_Serial.ino](code/Serial_Passthrough_by_the_Assigned_Serial.ino)                | 2021-07-07 |
 
 
 <!-- 
