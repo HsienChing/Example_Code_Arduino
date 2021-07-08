@@ -6,9 +6,9 @@
     There are two routes to calculate the CRC16. 
     In the first route, all parameters are set at once.
     In the second route, the parameters are set one by one.
-  Date: 5 July 2021
+  Date:   5 July 2021
   Author: Dr. Hsien-Ching Chung
-  ORCID: https://orcid.org/0000-0001-9364-8858
+  ORCID:  https://orcid.org/0000-0001-9364-8858
 */
 
 #include "CRC16.h" // CRC library from Rob Tillaart
