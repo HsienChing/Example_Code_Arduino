@@ -93,10 +93,10 @@ Some small example codes for Arduino.
 
 # Brief description
 
-| #    | Sketch name                        | Date       |
-| ---- | --------------------------------   | ---------- |
-| 1    | Blink_LED_via_a_Specific_Pin       | 2021-06-25 |
-
+| #    | Sketch name                                                                                        | Date       |
+| ---- | -------------------------------------------------------------------------------------------------- | ---------- |
+|    1 | [Blink_LED_via_a_Specific_Pin.ino](Blink_LED_via_a_Specific_Pin.ino)                               | 2021-06-25 |
+|    2 | [Serial_Passthrough_by_the_Assigned_Serial.ino](Serial_Passthrough_by_the_Assigned_Serial.ino)     | 2021-07-08 |
 
 
 
