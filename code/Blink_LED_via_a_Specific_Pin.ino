@@ -6,9 +6,9 @@
     2. The output pin for the LED can be changed conveniently via the int variable "LED_pin."
   Suggested system setup: 
     The LED is in series with a 220 ohm resistor for avoiding the destruction of the LED.    
-  Date: 25 June 2021
+  Date:   25 June 2021
   Author: Dr. Hsien-Ching Chung
-  ORCID: https://orcid.org/0000-0001-9364-8858
+  ORCID:  https://orcid.org/0000-0001-9364-8858
 */
 
 
